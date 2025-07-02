@@ -1,3 +1,4 @@
+这是我跟cursor对话生成第一个程序，所有代码都是cursor生成的。  
 第一步：命令行执行 python sudoku.py  
 第二步：执行 load sample，从sample文件中读取数独，并执行show命令查看数独  
 第三步：执行 brute，检查是否有唯一解  
